@@ -6,7 +6,7 @@ public class Sortingclass {
     
          Scanner scanner = new Scanner(System.in);
 
-         System.out.print("Enter the size of the array: ");
+         System.out.print("Enter size of the array: ");
          int size = scanner.nextInt();
 
          int[] array = new int[size];
